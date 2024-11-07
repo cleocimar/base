@@ -1,6 +1,8 @@
 # Base
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.10.
+Projeto base que possui uma <toolbar> e <sidenav> que ao clicar no menu (sanduiche) a tela que está sendo apresentada se torna invísivel.
+Se for teclado novamente a tela que está sendo apresentada retorna. Ao selecionar uma nova opção, o sistema carrega essa nova tela
 
 ## Development server
 
